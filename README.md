@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Data-driven projects and innovative solutions involving Machine Learning and probability.🤝 I’m looking for help with Exploring advanced applications of Large Language Models and computer architecture.<br><br>🌱 I’m currently learning Large Language Models with Google Cloud and Machine Learning Algorithms.<br>+1<br><br>💬 Ask me about Excel Dashboards, Data Cleaning, and Linear Regression.<br>+1<br><br>⚡ Fun fact I have explored building a modern computer from first principles (From Nand to Tetris).
+👯 I’m looking to collaborate on Data-driven projects and innovative solutions involving Machine Learning and probability.<br><br><br>🤝 I’m looking for help with Exploring advanced applications of Large Language Models and computer architecture.<br><br>🌱 I’m currently learning Large Language Models with Google Cloud and Machine Learning Algorithms.<br>+1<br><br>💬 Ask me about Excel Dashboards, Data Cleaning, and Linear Regression.<br>+1<br><br>⚡ Fun fact I have explored building a modern computer from first principles (From Nand to Tetris).
 
 
 ## 🌐 Socials:
