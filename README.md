@@ -61,6 +61,22 @@ class MirzaObaidullah:
 
 ## `$ cat ./projects`
 
+**🤖  n8n AI Assistant Chatbot — Groq + n8n  [2025]**
+
+> General-purpose AI chatbot built with n8n and Groq API (Compound Beta). Features real-time conversation memory, ultra-fast LLM responses, and a fully customizable system prompt — adaptable for customer support, HR, healthcare, education, and more. No-code setup: import and run in minutes.
+
+**Stack:** `n8n` `Groq API` `Compound Beta` `Window Buffer Memory` `Webhook`
+
+---
+
+**💵  SmartVision FX — AI Currency Assistant  [2025]**
+
+> Desktop AI application that uses a live webcam feed to detect Pakistani Rupee banknotes (Rs 10–1000) and instantly convert their value to foreign currencies using live exchange rates. Voice-controlled — say *"Convert to Euro"* hands-free. Built as a Digital Image Processing project combining ORB feature matching, homography, and speech recognition.
+
+**Stack:** `Python` `OpenCV` `ORB Feature Matching` `Tkinter` `SpeechRecognition` `CLAHE` `RANSAC` `Requests API`
+
+---
+
 **🫁  Lung Cancer Detection — CNN + DBMS  [2025]**
 
 > Trained a Convolutional Neural Network on medical imaging data to detect lung cancer, integrated with a full DBMS for patient record management. Handles image preprocessing, model inference, and result storage end-to-end.
