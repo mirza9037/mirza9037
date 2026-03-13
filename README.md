@@ -55,7 +55,7 @@ class MirzaObaidullah:
 | `▸ TensorFlow      ███████░░░` | `▸ Excel Dashboards███████░░░` | `▸ MATLAB          ██████░░░░` |
 | `▸ Keras           ███████░░░` | `▸ Data Cleaning   ████████░░` | `▸ C++             █████░░░░░` |
 | `▸ Scikit-Learn    ██████░░░░` | `▸ Regression      ██████░░░░` | `▸ Google Cloud    █████░░░░░` |
-| `▸ OpenCV          ██████░░░░` | `▸ Data Pipelines  █████░░░░░` | `▸ WordPress       ███████░░░` |
+| `▸ OpenCV          ██████░░░░` | `▸ Data Pipelines  █████░░░░░` | |
 
 ---
 
@@ -114,22 +114,6 @@ class MirzaObaidullah:
 > Designed and simulated a full RISC-V processor architecture from scratch — datapath, control unit, ALU, register file, and all 5 pipeline stages (IF → ID → EX → MEM → WB).
 
 **Stack:** `Logisim` `RISC-V ISA` `Digital Logic` `Computer Architecture`
-
----
-
-**🔐  Laser Intrusion Detection System  [Jan 2024]**
-
-> Hardware security system using LDR photoresistor and BC547 transistor circuit. Detects laser beam interruption and triggers a buzzer alarm — foundational electronics meets real-world security.
-
-**Stack:** `Laser` `LDR Sensor` `BC547` `Analog Electronics`
-
----
-
-**🌐  Legal Firm Website — WordPress  [Dec 2022]**
-
-> Responsive, client-facing WordPress site for an advocate consulting firm. Includes attorney profiles, service listings, testimonials, and contact forms. Focused on professional trust-building UX.
-
-**Stack:** `WordPress` `Web Design` `UI/UX` `Client Communication`
 
 ---
 
