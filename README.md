@@ -30,16 +30,23 @@ class MirzaObaidullah:
 
     currently_building = [
         "AI automation workflows with n8n + LLMs + Python",
-        "LLM-powered chatbots for real-world business use cases",
+        "LLM-powered chatbots & RAG systems for real-world business use cases",
         "Data pipelines and analytical dashboards",
     ]
 
     experience = {
-        "Excelerate"                    : "Data Analyst Trainee Intern",
+        "Vista Equity Partners"         : "AI Workflow Analyst — GenAI & Prompt Engineering",
+        "Deloitte Australia"            : "Data Analyst — Forensic Tech & Tableau Dashboards",
+        "Excelerate"                    : "Data Analyst Trainee Intern — Python, ML, Excel",
         "UITU Maker's Club"             : "Student Mentor — DLD, IoT, Circuit Design",
     }
 
-    open_to = ["Freelance AI/Automation projects", "AI/ML Automation internships"]
+    open_to = [
+        "Freelance AI / Automation projects",
+        "AI / ML internships (remote)",
+        "Data Analytics opportunities",
+        "Open source ML collaborations",
+    ]
 ```
 
 ---
@@ -55,17 +62,25 @@ class MirzaObaidullah:
 | `▸ TensorFlow      ███████░░░` | `▸ Excel Dashboards███████░░░` | `▸ MATLAB          ██████░░░░` |
 | `▸ Keras           ███████░░░` | `▸ Data Cleaning   ████████░░` | `▸ C++             █████░░░░░` |
 | `▸ Scikit-Learn    ██████░░░░` | `▸ Regression      ██████░░░░` | `▸ Google Cloud    █████░░░░░` |
-| `▸ OpenCV          ██████░░░░` | `▸ Data Pipelines  █████░░░░░` | |
+| `▸ OpenCV          ██████░░░░` | `▸ Data Pipelines  █████░░░░░` | `▸ Tableau         ██████░░░░` |
 
 ---
 
 ## `$ cat ./projects`
 
-**🤖  n8n AI Assistant Chatbot — Groq + n8n  [2025]**
+**🤖  n8n AI Assistant Chatbot — Groq + n8n  [Mar 2026]**
 
 > General-purpose AI chatbot built with n8n and Groq API (Compound Beta). Features real-time conversation memory, ultra-fast LLM responses, and a fully customizable system prompt — adaptable for customer support, HR, healthcare, education, and more. No-code setup: import and run in minutes.
 
 **Stack:** `n8n` `Groq API` `Compound Beta` `Window Buffer Memory` `Webhook`
+
+---
+
+**🏥  HR Policy WhatsApp Bot — HeartCare Hospital  [Mar 2026]**
+
+> Production-ready WhatsApp automation system for HeartCare Cardiology Hospital. Answers HR policy queries instantly via WhatsApp using a fine-tuned LLaMA3 model. Deployed with Docker, resolved real-world networking challenges (host.docker.internal, webhook routing, WAHA API auth). Delivered as a ready-to-import n8n JSON workflow.
+
+**Stack:** `n8n` `Groq (LLaMA3-8B)` `WAHA` `Docker` `Webhook` `REST API`
 
 ---
 
@@ -120,9 +135,11 @@ class MirzaObaidullah:
 ## `$ cat ./certifications`
 
 ```
+✦  Generative AI Mastermind .................................. 2026
 ✦  Introduction to Large Language Models — Udacity × Google Cloud .......... 2025
 ✦  AI Bootcamp ............................................. Kodeative ...... 2025
 ✦  Basics of Machine Learning Algorithms ..................... UniAthena ..... 2025
+✦  Deloitte Australia — Data Analytics Job Simulation ........ 2026
 ✦  Student Mentor Recognition ................................ UIT University . 2024
 ✦  Build a Modern Computer: Nand to Tetris ................... Hebrew Univ. .. 2023
 ```
@@ -149,7 +166,8 @@ class MirzaObaidullah:
 I'm actively looking for:
 
   [✓]  Freelance AI & automation projects
-  [✓]  AI/ML automation internships
+  [✓]  AI / ML internships (remote)
+  [✓]  Data Analytics opportunities
   [✓]  Open source ML collaborations
   [✓]  Mentorship & knowledge exchange
 
