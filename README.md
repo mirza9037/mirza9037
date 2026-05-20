@@ -1,23 +1,25 @@
 <div align="center">
 
-<!-- Antigravity Particle Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A66C2,50:6E3AFA,100:00D4FF&height=200&section=header&text=Mirza%20Obaidullah%20Baig&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Computer%20Engineer%20%7C%20AI%20Architect%20%7C%20Automation%20Builder&descSize=16&descAlignY=75" width="100%"/>
+<!-- Header with AI Engineer title -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A66C2,50:6E3AFA,100:00D4FF&height=220&section=header&text=Mirza%20Obaidullah%20Baig&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=52&desc=AI%20Engineer%20%7C%20AI%20Automation%20Engineer%20%7C%20Computer%20Engineer&descSize=15&descAlignY=70" width="100%"/>
 
-<!-- Antigravity floating cursor SVG -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mirza9037/mirza9037/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mirza9037/mirza9037/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/mirza9037/mirza9037/output/github-contribution-grid-snake.svg" />
-</picture>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Building+AI+Automation+Workflows+%F0%9F%A4%96;LLMs+%C2%B7+RAG+%C2%B7+n8n+%C2%B7+Claude+%C2%B7+Gemini+%C2%B7+Grok;Python+%C2%B7+TensorFlow+%C2%B7+OpenCV+%C2%B7+Docker;Open+to+Freelance+%26+Remote+Internships+%F0%9F%9A%80)](https://github.com/mirza9037)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+AI+Automation+Engineer+%F0%9F%A4%96;Claude+%C2%B7+Gemini+%C2%B7+Grok+%C2%B7+LLaMA3+%C2%B7+Groq;n8n+Workflows+%C2%B7+RAG+Systems+%C2%B7+LLM+Pipelines;Python+%C2%B7+TensorFlow+%C2%B7+OpenCV+%C2%B7+Docker;Open+to+Freelance+%26+Remote+Internships+%F0%9F%9A%80)](https://github.com/mirza9037)
 
 <p>
   <a href="https://linkedin.com/in/mirzaobaid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/mirza9037"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:mirza.obaid@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=mirza9037&color=0A66C2&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
+
+<!-- Contribution Snake — works after running the GitHub Action in the repo -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/mirza9037/mirza9037/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/mirza9037/mirza9037/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" width="100%"
+       src="https://raw.githubusercontent.com/mirza9037/mirza9037/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -29,30 +31,30 @@
 class MirzaObaidullah:
 
     name       = "Mirza Obaidullah Baig"
-    role       = "Computer Engineer · AI & Automation Architect"
+    role       = "AI Engineer · AI Automation Engineer · Computer Engineer"
     university = "UIT University, Karachi — B.E. Computer Engineering ('26)"
     location   = "Karachi, Pakistan 🇵🇰"
 
     currently_building = [
-        "Multi-agent AI workflows  →  n8n + Claude + Gemini + Grok + Python",
-        "LLM-powered chatbots & RAG systems for real-world business use cases",
-        "Production WhatsApp bots, customer support AIs & data pipelines",
-        "Computer vision apps with real-time inference (OpenCV + YOLO)",
+        "Multi-agent AI automation workflows  →  n8n + Claude + Gemini + Grok",
+        "LLM-powered RAG chatbots for real-world enterprise use cases",
+        "Production WhatsApp AI bots (WAHA + Docker + LLaMA3)",
+        "Computer vision pipelines with real-time inference (OpenCV + CNN)",
     ]
 
     experience = {
-        "Vista Equity Partners"  : "AI Workflow Analyst — GenAI & Prompt Engineering",
-        "Deloitte Australia"     : "Data Analyst — Forensic Tech & Tableau Dashboards",
-        "Excelerate"             : "Data Analyst Trainee Intern — Python, ML, Excel",
-        "UITU Maker's Club"      : "Student Mentor — DLD, IoT, Circuit Design",
+        "Vista Equity Partners"  : "AI Workflow Analyst  —  GenAI & Prompt Engineering",
+        "Deloitte Australia"     : "Data Analyst  —  Forensic Tech & Tableau Dashboards",
+        "Excelerate"             : "Data Analyst Trainee  —  Python, ML, Excel",
+        "UITU Maker's Club"      : "Student Mentor  —  DLD, IoT, Circuit Design",
     }
 
-    ai_stack   = ["Claude (Anthropic)", "Gemini (Google)", "Grok (xAI)",
-                  "LLaMA3 (Meta)", "Groq API", "OpenAI-compatible endpoints"]
+    ai_models  = ["Claude (Anthropic)", "Gemini (Google DeepMind)",
+                  "Grok (xAI)", "LLaMA3 (Meta via Groq)", "Compound Beta"]
 
-    open_to    = ["Freelance AI / Automation Projects",
+    open_to    = ["Freelance AI & Automation Projects",
                   "AI / ML Remote Internships",
-                  "Data Analytics Roles",
+                  "Data Analytics Opportunities",
                   "Open Source ML Collaborations"]
 ```
 
@@ -62,13 +64,13 @@ class MirzaObaidullah:
 
 <div align="center">
 
-| 🤖 Model | 🏢 Provider | 💡 Use Case in Projects |
+| 🤖 Model | 🏢 Provider | 💡 How I Use It |
 |---|---|---|
-| **Claude** (Sonnet / Haiku) | Anthropic | RAG systems, reasoning agents, code generation |
-| **Gemini** (Flash / Pro) | Google DeepMind | Multimodal tasks, document analysis, fast inference |
-| **Grok** | xAI | Real-time web-aware responses, creative workflows |
-| **LLaMA 3** (8B / 70B) | Meta via Groq | WhatsApp bots, HR policy QA, on-prem deployment |
-| **Compound Beta** | Groq | Ultra-fast inference for n8n chatbot pipelines |
+| **Claude** Sonnet / Haiku | Anthropic | RAG agents, reasoning pipelines, code generation |
+| **Gemini** Flash / Pro | Google DeepMind | Multimodal tasks, doc analysis, fast inference |
+| **Grok** | xAI | Real-time web-aware responses, creative AI workflows |
+| **LLaMA 3** 8B / 70B | Meta via Groq | WhatsApp bots, HR policy QA, on-prem deployment |
+| **Compound Beta** | Groq | Ultra-fast LLM inference inside n8n pipelines |
 
 </div>
 
@@ -78,7 +80,7 @@ class MirzaObaidullah:
 
 <div align="center">
 
-### 🤖 AI / LLMs & Automation
+### 🤖 AI Engineering & LLM Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
@@ -87,15 +89,15 @@ class MirzaObaidullah:
 ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Systems-6E3AFA?style=flat-square&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Eng.-00D4FF?style=flat-square&logoColor=white)
+![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-00D4FF?style=flat-square&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_AI-171515?style=flat-square&logoColor=white)
 
-### 🧠 Machine Learning & Deep Learning
+### 🧠 Machine Learning & Computer Vision
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-FF6B6B?style=flat-square&logoColor=white)
-![Regression](https://img.shields.io/badge/Regression_Models-20C20E?style=flat-square&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN_Architecture-FF6B6B?style=flat-square&logoColor=white)
 
 ### 📊 Data & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -105,104 +107,109 @@ class MirzaObaidullah:
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel_Dashboards-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-### 🔌 DevOps, Systems & Tools
+### 🔌 DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![WAHA](https://img.shields.io/badge/WAHA_WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)
+![WAHA](https://img.shields.io/badge/WAHA_WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Webhook](https://img.shields.io/badge/Webhook_Integration-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0052CC?style=flat-square&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_AI-171515?style=flat-square&logo=cursor&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)
 
 </div>
 
 ---
 
-## `$ cat ./projects`
+## `$ cat ./projects --sort=latest`
 
-<details open>
-<summary><b>🤖 n8n AI Assistant Chatbot — Groq + n8n &nbsp;[Mar 2026]</b></summary>
+### 🆕 Latest Projects
 
-> General-purpose AI chatbot built with **n8n** and **Groq API (Compound Beta)**. Features real-time conversation memory, ultra-fast LLM responses, and a fully customizable system prompt — adaptable for customer support, HR, healthcare, education, and more. Import and run in minutes.
+---
 
-**Stack:** `n8n` `Groq API` `Compound Beta` `Window Buffer Memory` `Webhook`
+**🤖 n8n AI Assistant Chatbot — Groq + Claude + Gemini** `[Mar 2026]`
+
+> General-purpose **multi-LLM AI chatbot** built on n8n. Supports **Claude**, **Gemini**, and **Groq (Compound Beta)** as interchangeable backends. Features real-time conversation memory via Window Buffer, ultra-fast inference, and a fully customizable system prompt. Zero-code deployment — import workflow JSON and go live in minutes. Adaptable for customer support, HR, healthcare, and education.
+
+<details>
+<summary><b>Tech Stack</b></summary>
+
+| Layer | Tools |
+|---|---|
+| **Orchestration** | `n8n` — visual workflow automation |
+| **LLM Backends** | `Claude (Anthropic)` · `Gemini (Google)` · `Groq Compound Beta` |
+| **Memory** | `Window Buffer Memory` — rolling conversation context |
+| **Trigger** | `Webhook` — HTTP POST endpoint |
+| **Format** | Ready-to-import `n8n JSON workflow` |
+
+</details>
+
+---
+
+**🏥 HR Policy WhatsApp Bot — HeartCare Hospital** `[Mar 2026]`
+
+> Production-deployed **WhatsApp AI automation** for a real cardiology hospital. Instantly answers employee HR policy questions via WhatsApp using **LLaMA3-8B** fine-tuned on internal policy docs. Tackled real DevOps challenges: Docker networking (`host.docker.internal`), WAHA webhook routing, and API auth. Shipped as a plug-and-play n8n workflow.
+
+<details>
+<summary><b>Tech Stack</b></summary>
+
+| Layer | Tools |
+|---|---|
+| **Automation** | `n8n` — workflow engine |
+| **LLM** | `LLaMA3-8B` via `Groq API` — policy Q&A inference |
+| **Messaging** | `WAHA` — WhatsApp HTTP API |
+| **Infra** | `Docker` — containerized deployment |
+| **Integration** | `REST API` · `Webhook` — end-to-end routing |
+
+</details>
+
+---
+
+**💵 SmartVision FX — AI Currency Detector** `[2025]`
+
+> Desktop CV application using a **live webcam feed** to detect Pakistani Rupee notes (Rs 10–1000) via ORB feature matching + RANSAC homography, then converts to any foreign currency using live exchange rates. Fully **voice-controlled** — say *"Convert to Euro"* hands-free.
+
+<details>
+<summary><b>Tech Stack</b></summary>
+
+| Layer | Tools |
+|---|---|
+| **Computer Vision** | `OpenCV` · `ORB Feature Matching` · `RANSAC` · `CLAHE` |
+| **UI** | `Tkinter` — desktop GUI |
+| **Voice** | `SpeechRecognition` — hands-free control |
+| **Exchange Rates** | `Requests API` — live forex data |
+| **Language** | `Python` |
+
+</details>
+
+---
+
+**🫁 Lung Cancer Detection — Deep Learning + DBMS** `[2025]`
+
+> End-to-end medical imaging pipeline — **CNN trained on CT scan data** for lung cancer classification, integrated with a relational DBMS for patient record management. Handles preprocessing → inference → result storage in one system.
+
+<details>
+<summary><b>Tech Stack</b></summary>
+
+| Layer | Tools |
+|---|---|
+| **Deep Learning** | `TensorFlow` · `Keras` · `CNN Architecture` |
+| **Image Processing** | `OpenCV` · `NumPy` — preprocessing pipeline |
+| **Database** | `SQLite` / `MySQL` — patient records DBMS |
+| **Language** | `Python` |
 
 </details>
 
 ---
 
 <details>
-<summary><b>🏥 HR Policy WhatsApp Bot — HeartCare Hospital &nbsp;[Mar 2026]</b></summary>
+<summary><b>📁 Earlier Projects (click to expand)</b></summary>
 
-> Production-ready **WhatsApp automation** for HeartCare Cardiology Hospital. Answers HR policy queries instantly via WhatsApp using a fine-tuned **LLaMA3** model. Deployed with Docker; resolved real-world networking challenges (host.docker.internal, webhook routing, WAHA API auth).
+**🌫️ IoT Air Quality Monitor** `[Jan 2025]` — MQ-135 + Arduino real-time CO₂/VOC detection with threshold alerts · `Arduino` `Embedded C` `IoT`
 
-**Stack:** `n8n` `Groq (LLaMA3-8B)` `WAHA` `Docker` `Webhook` `REST API`
+**🌦️ Weather Forecasting** `[Dec 2024]` — Regression pipeline on historical datasets for weather trend prediction · `Python` `Pandas` `NumPy` `Matplotlib`
 
-</details>
+**🔊 Voice Gender Converter** `[Jun 2024]` — Real-time DSP voice modulation via FFT pitch shifting & formant manipulation · `MATLAB` `DSP` `FFT`
 
----
-
-<details>
-<summary><b>💵 SmartVision FX — AI Currency Assistant &nbsp;[2025]</b></summary>
-
-> Desktop AI app using a **live webcam feed** to detect Pakistani Rupee banknotes (Rs 10–1000) and convert to foreign currencies via live exchange rates. **Voice-controlled** — say *"Convert to Euro"* hands-free. Combines ORB feature matching, homography, and speech recognition.
-
-**Stack:** `Python` `OpenCV` `ORB Feature Matching` `Tkinter` `SpeechRecognition` `CLAHE` `RANSAC` `Requests API`
-
-</details>
-
----
-
-<details>
-<summary><b>🫁 Lung Cancer Detection — CNN + DBMS &nbsp;[2025]</b></summary>
-
-> Trained a **Convolutional Neural Network** on medical imaging data to detect lung cancer. Integrated with a full DBMS for patient record management — handles image preprocessing, model inference, and result storage end-to-end.
-
-**Stack:** `Python` `TensorFlow` `Keras` `OpenCV` `NumPy` `SQLite / MySQL`
-
-</details>
-
----
-
-<details>
-<summary><b>🌫️ IoT Air Quality Monitoring System &nbsp;[Jan 2025]</b></summary>
-
-> Real-time environmental monitoring using **MQ-135 sensor + Arduino**. Detects CO₂ and volatile organic compounds; triggers threshold-based alerts for public health protection.
-
-**Stack:** `Arduino` `MQ-135` `IoT` `Real-Time Processing` `Embedded C`
-
-</details>
-
----
-
-<details>
-<summary><b>🌦️ Weather Forecasting via Regression Analysis &nbsp;[Dec 2024]</b></summary>
-
-> End-to-end regression pipeline in Python to forecast weather trends from historical datasets. Integrates numerical analysis methods with ML fundamentals for future value estimation.
-
-**Stack:** `Python` `Pandas` `NumPy` `Matplotlib` `Anaconda` `Regression Modeling`
-
-</details>
-
----
-
-<details>
-<summary><b>🔊 Voice Gender Converter — DSP &nbsp;[Jun 2024]</b></summary>
-
-> Real-time voice modulation in **MATLAB** using Digital Signal Processing — pitch shifting, formant manipulation, and FFT-based frequency transformation for gender-based voice conversion.
-
-**Stack:** `MATLAB` `DSP` `FFT` `Audio Modulation` `Signal Processing`
-
-</details>
-
----
-
-<details>
-<summary><b>⚙️ RISC-V Processor — Logisim &nbsp;[May 2024]</b></summary>
-
-> Designed and simulated a full **RISC-V processor** from scratch — datapath, control unit, ALU, register file, and all 5 pipeline stages (IF → ID → EX → MEM → WB).
-
-**Stack:** `Logisim` `RISC-V ISA` `Digital Logic` `Computer Architecture`
+**⚙️ RISC-V Processor** `[May 2024]` — Full 5-stage pipelined processor (IF→ID→EX→MEM→WB) from scratch · `Logisim` `RISC-V ISA` `Computer Architecture`
 
 </details>
 
@@ -213,7 +220,7 @@ class MirzaObaidullah:
 ```
 ✦  Generative AI Mastermind ........................................... 2026
 ✦  Deloitte Australia — Data Analytics Job Simulation ................. 2026
-✦  Introduction to Large Language Models — Udacity × Google Cloud ..... 2025
+✦  Intro to Large Language Models — Udacity × Google Cloud ............ 2025
 ✦  AI Bootcamp ................................................ Kodeative  2025
 ✦  Basics of Machine Learning Algorithms .................... UniAthena  2025
 ✦  Student Mentor Recognition .............................. UIT University 2024
@@ -226,8 +233,8 @@ class MirzaObaidullah:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mirza9037&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0A66C2&icon_color=6E3AFA&text_color=8b949e&ring_color=0A66C2&count_private=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirza9037&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0A66C2&text_color=8b949e&langs_count=8"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=mirza9037&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0A66C2&icon_color=6E3AFA&text_color=8b949e&ring_color=0A66C2&count_private=true"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirza9037&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0A66C2&text_color=8b949e&langs_count=8"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirza9037&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0A66C2&ring=6E3AFA&fire=00D4FF&currStreakLabel=0A66C2" width="55%"/>
 
@@ -252,9 +259,30 @@ I'm actively looking for:
   → github.com/mirza9037
 ```
 
+<!-- Snake Action Setup (add to .github/workflows/snake.yml) -->
+<!--
+name: Generate Snake
+on:
+  schedule: [{ cron: "0 12 * * *" }]
+  workflow_dispatch:
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: mirza9037
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
+
 <div align="center">
-
-<!-- Antigravity footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D4FF,50:6E3AFA,100:0A66C2&height=120&section=footer&reversal=true" width="100%"/>
-
 </div>
